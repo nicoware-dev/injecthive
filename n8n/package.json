@@ -1,0 +1,11 @@
+{
+  "name": "eliza-n8n-workflows",
+  "version": "1.0.0",
+  "description": "N8N workflow configurations for Eliza agents",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-workflows.js",
+    "copy-coordinator": "node copy-coordinator.js",
+    "setup": "npm run copy-coordinator && npm run generate"
+  }
+}
