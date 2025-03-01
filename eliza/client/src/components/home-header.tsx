@@ -25,7 +25,7 @@ export function HomeHeader() {
         { name: "Pricing", path: "#pricing" },
         { name: "Contact", path: "#contact" },
         { name: "Contribute", path: "#opensource" },
-        { name: "Docs", path: "https://injecthive-ai.gitbook.io/"   } 
+        { name: "Docs", path: "https://injecthive.gitbook.io/"   } 
     ];
 
     return (

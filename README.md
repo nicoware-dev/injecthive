@@ -14,10 +14,10 @@
     <a href="https://x.com/InjectHiveAgent">
       <img src="https://img.shields.io/badge/X-Follow%20Us-blue?style=for-the-badge&logo=x" alt="X" />
     </a>
-    <a href="https://youtu.be/PLACEHOLDER">
+    <a href="https://youtu.be/u6ZFOhBVc4I">
       <img src="https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube" alt="Demo Video" />
     </a>
-    <a href="https://linktr.ee/InjectHive>
+    <a href="https://linktr.ee/InjectHive">
       <img src="https://img.shields.io/badge/Linktree-Visit%20Us-green?style=for-the-badge&logo=linktree" alt="Linktree" />
     </a>
     <a href="https://injecthive.vercel.app/">
