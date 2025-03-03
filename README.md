@@ -1,4 +1,4 @@
-# InjectHive: Injective DeFi Agent Swarm
+# InjectHive: Injective DeFAI Agent Swarm
 
 
 
