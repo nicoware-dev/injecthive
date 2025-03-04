@@ -80,6 +80,4 @@ Let's explore how InjectHive connects with key protocols and data providers in t
 - Position monitoring
 - Performance analytics
 
-Need help setting up any of these integrations? Check out our [plugin documentation](plugin-injecthive.md) for detailed implementation guidance.
-
 Got questions? Our [Discord](https://discord.gg/xv7bcRpgUw) community is always here to help with integration support and updates!

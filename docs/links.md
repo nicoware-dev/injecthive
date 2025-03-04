@@ -14,7 +14,7 @@ Here are the essential links to help you connect with the InjectHive community, 
 
 - **YouTube:**  
   Watch our demo videos and tutorials to see InjectHive in action.  
-  [https://youtu.be/PLACEHOLDER](https://youtu.be/PLACEHOLDER)
+  [https://youtu.be/PLACEHOLDER](https://youtu.be/u6ZFOhBVc4I)
 
 - **Linktree:**  
   Access all our links and resources in one convenient place.  
@@ -28,15 +28,11 @@ Here are the essential links to help you connect with the InjectHive community, 
 
 ## Additional Resources
 
-- **Documentation:**  
-  For in-depth technical details and guides, check out our docs directory.  
-  *(Refer to the repository's documentation for more details.)*
-
 - **GitHub Repository:**  
   Get the latest code, report issues, or contribute to the project.  
   [https://github.com/nicoware-dev/injecthive](https://github.com/nicoware-dev/injecthive)
 
 - **Support & Contributions:**  
-  Find out how you can contribute or get support by checking out our Contributing guide and opening an issue on GitHub.
+  Find out how you can contribute or get support by checking out our [Contributing](./contributing.md) guide and opening an issue on GitHub.
 
 Stay connected and make the most of your InjectHive experience!

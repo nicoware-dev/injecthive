@@ -19,7 +19,7 @@ Jump into our Discord community, follow us on X (formerly Twitter), or keep an e
 While some basic familiarity with Node.js and TypeScript helps for self-hosting, don't worry! Our documentation walks you through every step of the setup process.
 
 ### How do I get started with InjectHive?
-It's pretty straightforward - clone our GitHub repo, install dependencies with `pnpm`, and you're on your way. Check out our [Developer Quick Start](#developer-quick-start) for the full walkthrough.
+It's pretty straightforward - clone our GitHub repo, install dependencies with `pnpm`, and you're on your way. Check out our [Developer Quick Start](./quick-start.md) for the full walkthrough.
 
 ### What if something goes wrong?
 No worries! Start by checking our documentation, or hop into our Discord for quick help. Found a bug? Please let us know by opening an issue on GitHub.
@@ -46,7 +46,7 @@ That depends on your setup. You'll need to cover your hosting costs (if using a 
 ## Contributing
 
 ### How can I help improve InjectHive?
-We love community contributions! Whether it's submitting pull requests, reporting issues, or suggesting new features, check out our [Contributing Guide](#contributing) to get started.
+We love community contributions! Whether it's submitting pull requests, reporting issues, or suggesting new features, check out our [Contributing Guide](./contributing.md) to get started.
 
 ---
 
